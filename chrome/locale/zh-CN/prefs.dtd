@@ -3,6 +3,7 @@
 <!ENTITY status4evar.pane.progress "进度条">
 <!ENTITY status4evar.pane.download "下载">
 <!ENTITY status4evar.pane.addonbar "附加组件栏">
+<!ENTITY status4evar.pane.statusbar "状态栏">
 <!ENTITY status4evar.pane.advanced "高级">
 <!ENTITY status4evar.tab.general "常规">
 <!ENTITY status4evar.tab.toolbar "工具栏">
